@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">مركز العطايا لتوزيع المواد الغذائية</string>
+    <string name="title_activity_main">مركز العطايا لتوزيع المواد الغذائية</string>
+    <string name="package_name">com.abdullahataya.fooddistribution</string>
+    <string name="custom_url_scheme">com.abdullahataya.fooddistribution</string>
+</resources>
